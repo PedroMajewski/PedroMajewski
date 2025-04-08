@@ -90,9 +90,13 @@ I’m excited to take on new challenges, collaborate with dynamic teams, and con
  width="35px"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<p>
-    <img height="200"
+## 🎯 Estatísticas
+
+<p align="left">
+    <img height="185"
+    padding="80"
     src="https://github-readme-stats.vercel.app/api?username=PedroMajewski&show_icons=true&theme=dark&locale=pt-BR"/>
-    <img height="200"
+    <img height="185"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMajewski&layout=compact&theme=dark&custom_title=Tecnologias"/>
 </p>
+
